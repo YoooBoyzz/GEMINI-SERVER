@@ -1,6 +1,7 @@
 
 # GEMINI-SERVER
 
+![Banner](banner.png)
 
 ![GitHub stars](https://img.shields.io/github/stars/wanzxploit/GEMINI-SERVER?style=social)
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen)
